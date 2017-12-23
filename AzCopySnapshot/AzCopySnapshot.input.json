@@ -1,0 +1,18 @@
+{
+	"SnapshotName": "imagerec-snapshot-03",
+	"Source": {
+		"SubscriptionId": "3ae41414-117a-45f9-89b0-669e91061ae3",
+		"ResourceGroup": "nonlive-shared",
+		"Location": "eastus2"
+	},
+	"Destination": {
+		"SubscriptionId": "b659a3fb-af03-421c-a99c-977fce7817de",
+		"ResourceGroup": "live-imagerec"
+	},
+	"ServicePrincipal": {
+		"ActiveDirectoryDomain": "devmadras.onmicrosoft.com",
+		"TenantId": "09651602-49ad-4a47-8021-5a297bd10dfb",
+		"ApplicationId": "9742bb63-0293-4c1a-9b10-f7b7d4adc0f9",
+		"ApplicationPassword": "D1g1Marc9405"
+	}
+}
